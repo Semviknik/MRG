@@ -9,8 +9,8 @@ C:\Users\Total\Documents\RAD Studio\Projects\MRG\DataClient\bin\Debug\DataClient
 C:\Users\Total\Documents\RAD Studio\Projects\MRG\DataClient\bin\Debug\DataClient.exe
 C:\Users\Total\Documents\RAD Studio\Projects\MRG\DataClient\bin\Debug\DataClient.pdb
 C:\Users\Total\Documents\RAD Studio\Projects\MRG\DataClient\obj\Debug\DataClient.csprojResolveAssemblyReference.cache
-C:\Users\Total\Documents\RAD Studio\Projects\MRG\DataClient\obj\Debug\DataClient.MainForm.resources
 C:\Users\Total\Documents\RAD Studio\Projects\MRG\DataClient\obj\Debug\DataClient.csproj.GenerateResource.Cache
 C:\Users\Total\Documents\RAD Studio\Projects\MRG\DataClient\obj\Debug\DataClient.exe
 C:\Users\Total\Documents\RAD Studio\Projects\MRG\DataClient\obj\Debug\DataClient.pdb
 C:\Users\V.Seminchenko\Documents\RAD Studio\Projects\MRG\DataClient\obj\Debug\DataClientApp.MainForm.resources
+C:\Users\Total\Documents\RAD Studio\Projects\MRG\DataClient\obj\Debug\DataClientApp.MainForm.resources

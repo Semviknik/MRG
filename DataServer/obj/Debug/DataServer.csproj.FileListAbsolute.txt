@@ -9,8 +9,8 @@ C:\Users\Total\Documents\RAD Studio\Projects\MRG\DataServer\bin\Debug\DataServer
 C:\Users\Total\Documents\RAD Studio\Projects\MRG\DataServer\bin\Debug\DataServer.exe
 C:\Users\Total\Documents\RAD Studio\Projects\MRG\DataServer\bin\Debug\DataServer.pdb
 C:\Users\Total\Documents\RAD Studio\Projects\MRG\DataServer\obj\Debug\DataServer.csprojResolveAssemblyReference.cache
-C:\Users\Total\Documents\RAD Studio\Projects\MRG\DataServer\obj\Debug\DataServer.MainForm.resources
 C:\Users\Total\Documents\RAD Studio\Projects\MRG\DataServer\obj\Debug\DataServer.csproj.GenerateResource.Cache
 C:\Users\Total\Documents\RAD Studio\Projects\MRG\DataServer\obj\Debug\DataServer.exe
 C:\Users\Total\Documents\RAD Studio\Projects\MRG\DataServer\obj\Debug\DataServer.pdb
 C:\Users\V.Seminchenko\Documents\RAD Studio\Projects\MRG\DataServer\obj\Debug\DataServerApp.MainForm.resources
+C:\Users\Total\Documents\RAD Studio\Projects\MRG\DataServer\obj\Debug\DataServerApp.MainForm.resources
