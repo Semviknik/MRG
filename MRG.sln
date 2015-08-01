@@ -10,6 +10,18 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataServer", "DataServer\Da
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataClient", "DataClient\DataClient.csproj", "{46B50947-5CE6-446E-9E01-4A71856EAABC}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lib", "Lib", "{457DA4FB-60C1-4B83-86D4-06CB4E23767A}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\SharpLibraries\SharpGenLib.cs = ..\..\SharpLibraries\SharpGenLib.cs
+		..\..\SharpLibraries\SharpNetServers.cs = ..\..\SharpLibraries\SharpNetServers.cs
+		..\..\SharpLibraries\SharpObj.cs = ..\..\SharpLibraries\SharpObj.cs
+		..\..\SharpLibraries\SharpUtils.cs = ..\..\SharpLibraries\SharpUtils.cs
+		..\..\SharpLibraries\SilverWave.cs = ..\..\SharpLibraries\SilverWave.cs
+		..\..\SharpLibraries\TotalDataSerializations.cs = ..\..\SharpLibraries\TotalDataSerializations.cs
+		..\..\SharpLibraries\TotalNetDataClient.cs = ..\..\SharpLibraries\TotalNetDataClient.cs
+		..\..\SharpLibraries\TotalNetDataServer.cs = ..\..\SharpLibraries\TotalNetDataServer.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
