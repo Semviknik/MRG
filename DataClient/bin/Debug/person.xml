@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Person xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Jhon</Name>
+  <LastName>Smith</LastName>
+  <HomeAdress>
+    <Index>397600</Index>
+    <Country>Russia</Country>
+    <State>Voroneghskaya oblasty</State>
+    <Provance>Klacheevskyi raion</Provance>
+    <City>Kalach</City>
+    <Street>Lenynskaya</Street>
+    <Home>24</Home>
+  </HomeAdress>
+</Person>
