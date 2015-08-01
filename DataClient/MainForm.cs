@@ -69,7 +69,7 @@ namespace DataClientApp
 		public string Process(string msg)
 		{
 			messages.Invoke(putMessage, msg);
-			client.Send("CLOSE");
+			//client.Send("CLOSE");
 			return "";
 		}
 		
